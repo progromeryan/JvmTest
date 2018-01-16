@@ -19,8 +19,10 @@ public class ReferenceCountingGC {
 		objB = null;
 		System.gc();
 	}
+
+
+
 	
-	public static void main(String[] args) {
-		testGC();
+	public static void main(String[] args) {testGC();
 	}
 }
