@@ -1,4 +1,4 @@
-package com.test.jvm;
+package com.less3.jvm;
 
 /**
  * Created by yqs on 2018/1/16.
@@ -14,7 +14,15 @@ public class MinorGC {
         allocation4 = new byte[2*_1MB];
     }
 
+    /**
+     * 大对象
+     */
+    public static void testPretenureSizeThreshold(){
+        byte[] allocation;
+        allocation = new byte[4*_1MB];
+    }
+
     public static void main(String[] args) {
-        testAllocation();
+        testPretenureSizeThreshold();
     }
 }
