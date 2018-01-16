@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d14109cd-3ada-4b52-adfb-996d3b4dc85d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/test/jvm/MinorGC.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JvmTest/com/test/jvm/ReferenceCountingGC.class" afterPath="$PROJECT_DIR$/out/production/JvmTest/com/test/jvm/ReferenceCountingGC.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/test/jvm/ReferenceCountingGC.java" afterPath="$PROJECT_DIR$/src/com/test/jvm/ReferenceCountingGC.java" />
     </list>
     <ignored path="JvmTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -506,6 +503,13 @@
       <option name="number" value="Default" />
       <updated>1516104972451</updated>
     </task>
+    <task id="LOCAL-00001" summary="master">
+      <created>1516106156910</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516106156910</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -540,7 +544,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="master" />
+    <option name="LAST_COMMIT_MESSAGE" value="master" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
