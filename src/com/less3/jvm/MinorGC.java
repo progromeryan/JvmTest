@@ -14,15 +14,7 @@ public class MinorGC {
         allocation4 = new byte[2*_1MB];
     }
 
-    /**
-     * 大对象
-     */
-    public static void testPretenureSizeThreshold(){
-        byte[] allocation;
-        allocation = new byte[4*_1MB];
-    }
-
     public static void main(String[] args) {
-        testPretenureSizeThreshold();
+        testAllocation();
     }
 }
