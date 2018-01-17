@@ -1,4 +1,4 @@
-package com.less3.jvm;
+package com.lesson3.jvm;
 
 /**
  * Created by yqs on 2018/1/17.

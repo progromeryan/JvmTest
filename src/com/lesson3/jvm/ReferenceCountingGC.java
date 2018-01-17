@@ -1,4 +1,4 @@
-package com.less3.jvm;
+package com.lesson3.jvm;
 
 public class ReferenceCountingGC {
 
