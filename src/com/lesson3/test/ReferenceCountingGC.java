@@ -1,4 +1,4 @@
-package com.lesson3.jvm;
+package com.lesson3.test;
 
 public class ReferenceCountingGC {
 

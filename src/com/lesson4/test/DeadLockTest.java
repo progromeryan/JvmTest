@@ -1,4 +1,4 @@
-package com.lesson4.jvm;
+package com.lesson4.test;
 
 /**
  * Created by yqs on 2018/1/17.

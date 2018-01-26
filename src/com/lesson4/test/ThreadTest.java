@@ -1,4 +1,4 @@
-package com.lesson4.jvm;
+package com.lesson4.test;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

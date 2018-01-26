@@ -1,4 +1,4 @@
-package com.lesson4.jvm;
+package com.lesson4.test;
 
 import java.util.ArrayList;
 import java.util.List;
