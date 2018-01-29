@@ -25,7 +25,7 @@ public class DeadLockTest {
     }
 
     public static void main(String[] args) {
-        for (int i = 0; i < 10000; i++) {
+        for (int i = 0; i < 100; i++) {
             new Thread(new SynAddRunalbe(1, 2)).start();
             new Thread(new SynAddRunalbe(2, 1)).start();
         }
