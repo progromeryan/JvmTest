@@ -8,7 +8,7 @@ public class LocalVariableTable {
         {
             byte[] placeholder = new byte[64*1024*1024];
         }
-       int a;
+       int a=0;
         System.gc();
         System.out.println();
     }
