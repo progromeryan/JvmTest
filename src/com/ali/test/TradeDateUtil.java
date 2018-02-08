@@ -103,7 +103,7 @@ public class TradeDateUtil {
         SimpleDateFormat simFormat = new SimpleDateFormat("yyyyMMdd HH:mm:ss");
         try {
             //边界测试
-            Date time = simFormat.parse("20161008 18:45:56");
+            Date time = simFormat.parse("20181008 18:45:56");
             int offsetDays = 1;
 
 //            Date time = simFormat.parse("20160605 18:45:56");
