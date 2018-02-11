@@ -8,7 +8,12 @@ public class Calc {
         return (a+b)+c;
     }
 
+    public static void methodOne(){
+        methodOne();
+    }
+
     public static void main(String[] args) {
+        methodOne();
         calc();
     }
 }
