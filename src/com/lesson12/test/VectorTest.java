@@ -33,6 +33,8 @@ public class VectorTest {
                         }
                     }
                 }
+
+
             });
             removeThread.start();
             printThread.start();
